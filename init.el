@@ -186,6 +186,6 @@
 (global-set-key [f11] 'fullscreen)  
 
 ;;;; sudo by tiankai
-(require 'sudo)
-
+;;(require 'sudo)
+;;(global-set-key (kbd "C-x s u") 'sudo-reopen)
 
